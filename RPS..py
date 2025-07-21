@@ -22,4 +22,4 @@ else:
         print("you lose!")
     elif(you == 3 and computer == 2):
         print("you win!")       
-        
+   
